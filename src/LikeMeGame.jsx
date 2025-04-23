@@ -90,7 +90,7 @@ export default function LikeMeGame() {
       )}
 
       {step === "yes" && (
-        <h1 style={{ fontSize: "2rem", fontWeight: "bold", color: "green" }}>Thanks! I like you too 💖</h1>
+        <h1 style={{ fontSize: "2rem", fontWeight: "bold", color: "green" }}>Thanks! I like you too 😉💖</h1>
       )}
 
       {step === "no" && (
